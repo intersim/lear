@@ -1,0 +1,14 @@
+{
+  "name": "lear",
+  "version": "1.0.0",
+  "description": "Prints out a randomly selected quote from King Lear.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emily.intersimone@gmail.com",
+  "license": "ISC",
+  "bin": {
+    "lear": "./index.js"
+  }
+}
